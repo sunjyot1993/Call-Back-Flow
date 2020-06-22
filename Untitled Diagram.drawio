@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-22T17:01:54.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="Ed_G174KNG0v9c48yO7J" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-22T17:02:58.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="M6krssjTk-5FlEL5kPYW" version="13.3.0" type="github">
   <diagram id="URnzF8cNQarwy3RxTo23" name="Page-1">
     <mxGraphModel dx="920" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--98" value="&lt;ol&gt;&lt;li&gt;Cancel Notification is sent to the &lt;b&gt;assigned team&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Cancel Notification is sent to the &lt;b&gt;End-User&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="07Lyat34599aeESPzMI--98" value="&lt;ol&gt;&lt;li&gt;Cancel Notification is sent to the &lt;b&gt;assigned team&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Cancel Notification is sent to the &lt;b&gt;End-User&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
           <mxGeometry x="120" y="1416" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="07Lyat34599aeESPzMI--105" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
