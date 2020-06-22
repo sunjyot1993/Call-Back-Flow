@@ -1,159 +1,119 @@
-<mxfile host="app.diagrams.net" modified="2020-06-22T10:16:43.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="naf03dAmuFNbkFOUz0f3" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-22T17:01:54.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="Ed_G174KNG0v9c48yO7J" version="13.3.0" type="github">
   <diagram id="URnzF8cNQarwy3RxTo23" name="Page-1">
-    <mxGraphModel dx="775" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="07Lyat34599aeESPzMI--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07Lyat34599aeESPzMI--1" target="07Lyat34599aeESPzMI--2">
+        <mxCell id="07Lyat34599aeESPzMI--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="07Lyat34599aeESPzMI--1" target="07Lyat34599aeESPzMI--2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--1" value="Incident is raised by and End-user" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--1" value="Incident is raised by and End-user" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="40" y="153" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07Lyat34599aeESPzMI--2" target="07Lyat34599aeESPzMI--6">
+        <mxCell id="07Lyat34599aeESPzMI--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="07Lyat34599aeESPzMI--2" target="07Lyat34599aeESPzMI--6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--2" value="SD Team receives the incident and need to schedule callback with the user to get more clarity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--2" value="SD Team receives the incident and need to schedule callback with the user to get more clarity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="210" y="143" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07Lyat34599aeESPzMI--6" target="07Lyat34599aeESPzMI--8">
+        <mxCell id="07Lyat34599aeESPzMI--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="07Lyat34599aeESPzMI--6" target="07Lyat34599aeESPzMI--8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--6" value="Agent assigns ticket to himself and click on &quot;&lt;font color=&quot;#0000cc&quot;&gt;Request Callback&lt;/font&gt;&quot; Button" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--6" value="Agent assigns ticket to himself and click on &quot;&lt;font color=&quot;#0000cc&quot;&gt;Request Callback&lt;/font&gt;&quot; Button" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="400" y="153" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--8" target="07Lyat34599aeESPzMI--14">
+        <mxCell id="07Lyat34599aeESPzMI--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="07Lyat34599aeESPzMI--8" target="07Lyat34599aeESPzMI--14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--8" value="Agent is provided with Text Box to provide optional additional comments and then clicks on send notification" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--8" value="Agent is provided with Text Box to provide optional additional comments and then clicks on send notification" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="590" y="138" width="135" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07Lyat34599aeESPzMI--14" target="07Lyat34599aeESPzMI--19">
+        <mxCell id="07Lyat34599aeESPzMI--22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="07Lyat34599aeESPzMI--14" target="07Lyat34599aeESPzMI--19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--14" value="Notification is sent to the user with a link to provide preferred time to discuss" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--14" value="Notification is sent to the user with a link to provide preferred time to discuss" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="35" y="273" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--19" target="07Lyat34599aeESPzMI--25">
+        <mxCell id="07Lyat34599aeESPzMI--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="07Lyat34599aeESPzMI--19" target="07Lyat34599aeESPzMI--25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--19" target="07Lyat34599aeESPzMI--24">
+        <mxCell id="07Lyat34599aeESPzMI--19" value="User opens the link and is presented with a pop-up to provide the Date and Time and clicks on Schedule" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="270" y="300" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GzO5yyBctKknzHyNoWKh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="07Lyat34599aeESPzMI--25" target="07Lyat34599aeESPzMI--33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="07Lyat34599aeESPzMI--25" value="&lt;ol&gt;&lt;li&gt;Notification is sent to the &lt;b&gt;End-User&lt;/b&gt; confirming Call Scheduled&lt;/li&gt;&lt;li&gt;Notification is sent to the &lt;b&gt;Assignment group&lt;/b&gt; to whom incident is assigned confirming Call Scheduled&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
+          <mxGeometry x="540" y="261.5" width="170" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="07Lyat34599aeESPzMI--60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="07Lyat34599aeESPzMI--33" target="07Lyat34599aeESPzMI--59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzO5yyBctKknzHyNoWKh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="07Lyat34599aeESPzMI--33" target="07Lyat34599aeESPzMI--87">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="338" />
-              <mxPoint x="500" y="383" />
+              <mxPoint x="600" y="535" />
+              <mxPoint x="600" y="1070" />
+              <mxPoint x="400" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--19" value="User opens the link and is presented with a pop-up to provide the Date and Time and clicks on Schedule" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="280" y="293" width="140" height="90" as="geometry" />
+        <mxCell id="07Lyat34599aeESPzMI--33" value="User wants to Reschedule Call Back Time" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="345" y="470" width="127.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--24" target="07Lyat34599aeESPzMI--33">
+        <mxCell id="07Lyat34599aeESPzMI--46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="07Lyat34599aeESPzMI--37" target="07Lyat34599aeESPzMI--45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--24" value="Notification is sent to the Assignment group to whom incident is assigned confirming Call Scheduled" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="580" y="343" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--25" target="07Lyat34599aeESPzMI--33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="740" y="293" />
-              <mxPoint x="740" y="443" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--25" value="Notification is sent to the End-User confirming Call Scheduled" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="590" y="263" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--33" target="07Lyat34599aeESPzMI--59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--33" value="User wants to Reschedule Call Back Time" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="350" y="463" width="127.5" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07Lyat34599aeESPzMI--37" target="07Lyat34599aeESPzMI--45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--37" value="Assigned Team is sent a reminder notification &lt;b&gt;15 min &lt;/b&gt;prior to the scheduled time and incident state is changed to &quot;&lt;b&gt;In Progress&lt;/b&gt;&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--37" value="Assigned Team is sent a reminder notification &lt;b&gt;15 min &lt;/b&gt;prior to the scheduled time and incident state is changed to &quot;&lt;b&gt;In Progress&lt;/b&gt;&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="500" y="1286" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--44" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--44" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="360" y="1630" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--45" target="07Lyat34599aeESPzMI--44">
+        <mxCell id="07Lyat34599aeESPzMI--131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="07Lyat34599aeESPzMI--45" target="07Lyat34599aeESPzMI--44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="575" y="1590" />
-              <mxPoint x="400" y="1590" />
+              <mxPoint x="575" y="1580" />
+              <mxPoint x="400" y="1580" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--45" value="Assignee Call the user to discuss the issue and the flow ends" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--45" value="Assignee Call the user to discuss the issue and the flow ends" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="510" y="1446" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--56" target="07Lyat34599aeESPzMI--87">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="610" y="523" />
-              <mxPoint x="610" y="1033" />
-              <mxPoint x="400" y="1033" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--56" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--56" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="493" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--59" target="07Lyat34599aeESPzMI--61">
+        <mxCell id="07Lyat34599aeESPzMI--62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="07Lyat34599aeESPzMI--59" target="07Lyat34599aeESPzMI--61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--59" target="07Lyat34599aeESPzMI--76">
+        <mxCell id="07Lyat34599aeESPzMI--77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="07Lyat34599aeESPzMI--59" target="07Lyat34599aeESPzMI--76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--59" value="User calls SD &lt;br&gt;team to reschedule" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--59" value="User calls SD &lt;br&gt;team to reschedule" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="180" y="563" width="120" height="127.5" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--61" target="07Lyat34599aeESPzMI--63">
+        <mxCell id="GzO5yyBctKknzHyNoWKh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="07Lyat34599aeESPzMI--61" target="GzO5yyBctKknzHyNoWKh-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--61" value="SD team reschedules from Back-End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--61" value="SD team reschedules from Back-End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="90" y="703" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--64" target="07Lyat34599aeESPzMI--87">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="240" y="1033" />
-              <mxPoint x="400" y="1033" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--64" value="Notification is sent to the End-User confirming Call Re-Scheduled" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="180" y="943" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--74" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--74" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="498" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--63" target="07Lyat34599aeESPzMI--64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--76" target="07Lyat34599aeESPzMI--63">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--76" value="User Reschedules from the portal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="270" y="703" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--63" value="Notification is sent to the Assignment group to whom incident is assigned confirming Call Re-Scheduled" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="170" y="823" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--76" target="07Lyat34599aeESPzMI--63">
+        <mxCell id="GzO5yyBctKknzHyNoWKh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="1" source="07Lyat34599aeESPzMI--76">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="823" as="sourcePoint" />
-            <mxPoint x="95" y="983" as="targetPoint" />
+            <mxPoint x="240" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--87" target="07Lyat34599aeESPzMI--37">
+        <mxCell id="07Lyat34599aeESPzMI--76" value="User Reschedules from the portal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="270" y="703" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Lyat34599aeESPzMI--97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="07Lyat34599aeESPzMI--87" target="07Lyat34599aeESPzMI--37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--87" target="07Lyat34599aeESPzMI--122">
+        <mxCell id="07Lyat34599aeESPzMI--125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="07Lyat34599aeESPzMI--87" target="07Lyat34599aeESPzMI--122" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="1201" />
@@ -162,7 +122,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--87" target="07Lyat34599aeESPzMI--123">
+        <mxCell id="07Lyat34599aeESPzMI--127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="07Lyat34599aeESPzMI--87" target="07Lyat34599aeESPzMI--123" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="1201" />
@@ -171,64 +131,70 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--87" value="User wants to cancel the scheduled call" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--87" value="User wants to cancel the scheduled call" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="345" y="1143" width="110" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07Lyat34599aeESPzMI--98" target="07Lyat34599aeESPzMI--99">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--98" value="Cancel Notification is sent to the assigned team" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--99" target="07Lyat34599aeESPzMI--44">
+        <mxCell id="GzO5yyBctKknzHyNoWKh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="1" source="07Lyat34599aeESPzMI--98">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="1630" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="1590" />
-              <mxPoint x="400" y="1590" />
+              <mxPoint x="205" y="1580" />
+              <mxPoint x="400" y="1580" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--99" value="Cancel Notification is sent to the End-User" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1500" width="120" height="60" as="geometry" />
+        <mxCell id="07Lyat34599aeESPzMI--98" value="&lt;ol&gt;&lt;li&gt;Cancel Notification is sent to the &lt;b&gt;assigned team&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Cancel Notification is sent to the &lt;b&gt;End-User&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1416" width="170" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--105" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--105" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="670" y="21" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--107" value="User&#39;s action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--107" value="User&#39;s action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="725" y="21" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--110" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--110" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="670" y="51" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--113" value="Agent&#39;s Action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--113" value="Agent&#39;s Action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="725" y="51" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--114" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--114" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="670" y="80" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--115" value="&amp;nbsp;Notification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--115" value="&amp;nbsp;Notification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="80" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--116" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Call Back Functionality Flow&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--116" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Call Back Functionality Flow&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="253" y="31" width="345" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--119" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--119" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="1170" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--121" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--121" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="1170" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--122" target="07Lyat34599aeESPzMI--98">
+        <mxCell id="07Lyat34599aeESPzMI--132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="07Lyat34599aeESPzMI--122" target="07Lyat34599aeESPzMI--98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--122" value="SD team cancels from Back-End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--122" value="SD team cancels from Back-End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="60" y="1286" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Lyat34599aeESPzMI--123" target="07Lyat34599aeESPzMI--98">
+        <mxCell id="07Lyat34599aeESPzMI--134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="07Lyat34599aeESPzMI--123" target="07Lyat34599aeESPzMI--98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="07Lyat34599aeESPzMI--123" value="User cancels from the portal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="07Lyat34599aeESPzMI--123" value="User cancels from the portal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="225" y="1286" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GzO5yyBctKknzHyNoWKh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="GzO5yyBctKknzHyNoWKh-4" target="07Lyat34599aeESPzMI--87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="1070" />
+              <mxPoint x="400" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GzO5yyBctKknzHyNoWKh-4" value="&lt;ol&gt;&lt;li&gt;Notification is sent to the &lt;b&gt;End-User&lt;/b&gt; confirming Call Re-Scheduled&lt;/li&gt;&lt;li&gt;Notification is sent to the &lt;b&gt;Assignment group&lt;/b&gt; to whom incident is assigned confirming Call Re-Scheduled&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="155" y="860" width="170" height="167" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
