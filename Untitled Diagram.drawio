@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-22T17:05:51.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="gxmjZstxBk2JzmZPddxX" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-24T11:05:36.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="UZAQGPXTwjxoOWLXcSjn" version="13.3.0" type="github">
   <diagram id="URnzF8cNQarwy3RxTo23" name="Page-1">
-    <mxGraphModel dx="920" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="07Lyat34599aeESPzMI--19" value="User opens the link and is presented with a pop-up to provide the Date and Time and clicks on Schedule" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="270" y="300" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GzO5yyBctKknzHyNoWKh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="07Lyat34599aeESPzMI--25" target="07Lyat34599aeESPzMI--33">
+        <mxCell id="GzO5yyBctKknzHyNoWKh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="07Lyat34599aeESPzMI--25" target="07Lyat34599aeESPzMI--33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="07Lyat34599aeESPzMI--25" value="&lt;ol&gt;&lt;li&gt;Notification is sent to the &lt;b&gt;End-User&lt;/b&gt; confirming Call Scheduled&lt;/li&gt;&lt;li&gt;Notification is sent to the &lt;b&gt;Assignment group&lt;/b&gt; to whom incident is assigned confirming Call Scheduled&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
@@ -49,7 +49,7 @@
         <mxCell id="07Lyat34599aeESPzMI--60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="07Lyat34599aeESPzMI--33" target="07Lyat34599aeESPzMI--59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzO5yyBctKknzHyNoWKh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="07Lyat34599aeESPzMI--33" target="07Lyat34599aeESPzMI--87">
+        <mxCell id="GzO5yyBctKknzHyNoWKh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="07Lyat34599aeESPzMI--33" target="07Lyat34599aeESPzMI--87" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="535" />
@@ -82,7 +82,7 @@
           <mxGeometry x="510" y="1446" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="07Lyat34599aeESPzMI--56" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="493" width="40" height="30" as="geometry" />
+          <mxGeometry x="300" y="595" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="07Lyat34599aeESPzMI--62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="07Lyat34599aeESPzMI--59" target="07Lyat34599aeESPzMI--61" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -93,7 +93,7 @@
         <mxCell id="07Lyat34599aeESPzMI--59" value="User calls SD &lt;br&gt;team to reschedule" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="180" y="563" width="120" height="127.5" as="geometry" />
         </mxCell>
-        <mxCell id="GzO5yyBctKknzHyNoWKh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="07Lyat34599aeESPzMI--61" target="GzO5yyBctKknzHyNoWKh-4">
+        <mxCell id="GzO5yyBctKknzHyNoWKh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="07Lyat34599aeESPzMI--61" target="GzO5yyBctKknzHyNoWKh-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="07Lyat34599aeESPzMI--61" value="SD team reschedules from Back-End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -102,7 +102,7 @@
         <mxCell id="07Lyat34599aeESPzMI--74" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="498" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GzO5yyBctKknzHyNoWKh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="1" source="07Lyat34599aeESPzMI--76">
+        <mxCell id="GzO5yyBctKknzHyNoWKh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" parent="1" source="07Lyat34599aeESPzMI--76" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="860" as="targetPoint" />
           </mxGeometry>
@@ -134,7 +134,7 @@
         <mxCell id="07Lyat34599aeESPzMI--87" value="User wants to cancel the scheduled call" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="345" y="1143" width="110" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="GzO5yyBctKknzHyNoWKh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="1" source="07Lyat34599aeESPzMI--98">
+        <mxCell id="GzO5yyBctKknzHyNoWKh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" parent="1" source="07Lyat34599aeESPzMI--98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="1630" as="targetPoint" />
             <Array as="points">
@@ -195,7 +195,7 @@
         <mxCell id="07Lyat34599aeESPzMI--123" value="User cancels from the portal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="225" y="1286" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GzO5yyBctKknzHyNoWKh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="GzO5yyBctKknzHyNoWKh-4" target="07Lyat34599aeESPzMI--87">
+        <mxCell id="GzO5yyBctKknzHyNoWKh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="GzO5yyBctKknzHyNoWKh-4" target="07Lyat34599aeESPzMI--87" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="1070" />
@@ -203,8 +203,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GzO5yyBctKknzHyNoWKh-4" value="&lt;ol&gt;&lt;li&gt;Notification is sent to the &lt;b&gt;End-User&lt;/b&gt; confirming Call Re-Scheduled&lt;/li&gt;&lt;li&gt;Notification is sent to the &lt;b&gt;Assignment group&lt;/b&gt; to whom incident is assigned confirming Call Re-Scheduled&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+        <mxCell id="GzO5yyBctKknzHyNoWKh-4" value="&lt;ol&gt;&lt;li&gt;Notification is sent to the &lt;b&gt;End-User&lt;/b&gt; confirming Call Re-Scheduled&lt;/li&gt;&lt;li&gt;Notification is sent to the &lt;b&gt;Assignment group&lt;/b&gt; to whom incident is assigned confirming Call Re-Scheduled&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
           <mxGeometry x="155" y="860" width="170" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="-sk5pCfOeck6p0krI0Lk-1" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="600" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
