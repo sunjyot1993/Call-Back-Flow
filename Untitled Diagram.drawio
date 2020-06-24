@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-24T11:05:36.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="UZAQGPXTwjxoOWLXcSjn" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-24T11:07:44.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="YwGemaw8_JnslHnA0ZID" version="13.3.2" type="github">
   <diagram id="URnzF8cNQarwy3RxTo23" name="Page-1">
-    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,8 +206,11 @@
         <mxCell id="GzO5yyBctKknzHyNoWKh-4" value="&lt;ol&gt;&lt;li&gt;Notification is sent to the &lt;b&gt;End-User&lt;/b&gt; confirming Call Re-Scheduled&lt;/li&gt;&lt;li&gt;Notification is sent to the &lt;b&gt;Assignment group&lt;/b&gt; to whom incident is assigned confirming Call Re-Scheduled&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
           <mxGeometry x="155" y="860" width="170" height="167" as="geometry" />
         </mxCell>
-        <mxCell id="-sk5pCfOeck6p0krI0Lk-1" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-sk5pCfOeck6p0krI0Lk-1" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="600" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xVFqDieORm4lEHg3_NpE-1" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="493" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
